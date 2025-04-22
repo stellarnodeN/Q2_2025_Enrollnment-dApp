@@ -1,4 +1,4 @@
-# Solana Starter
+# Q2_2025_Enrollnment-dApp
 
 This repository contains a starter template for Solana development, featuring two sub-projects:
 
